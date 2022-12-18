@@ -1,11 +1,12 @@
 # -python-tda-bug-hunt-0
 
 # DEPENDENCY
-#freeipa==4.6.2
+#six==1.16.0
 
 
 # VULNERABLE DEPENDENCY IN THE PACKAGE TREE
-#six==1.16.0
+#freeipa==4.6.2
+
 
 # VULNERABILITIES
 1. CVE-2019-14826
